@@ -1,0 +1,26 @@
+{
+  "name": "hardhat-simple-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hardhat",
+    "contracts",
+    "ethereum",
+    "solidity",
+    "javaScript",
+    "nodejs"
+  ],
+  "author": "deep hansda",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "dotenv": "^16.0.3"
+  }
+}
